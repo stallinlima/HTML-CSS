@@ -29,7 +29,7 @@ Grandes telas: acima 1200px
     }
 
     main::after {
-        content: 'Essa impressão foi feita através do site www.igorcesar.com.br';
+        content: 'Essa impressão foi feita através do site www.stallin.com.br';
         text-decoration: overline;
     }
 
